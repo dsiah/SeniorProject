@@ -2,16 +2,19 @@
 
 Artificial Neural networks are a hotbed of research activity, especially in the area of Computer Vision. In this project, work was done into various ways to approach captioning domain specific videos.  Cooking videos from top-down or isometric perspectives  were analyzed by sending them down a multi-stage pipeline in order to extract details for improving current captioning systems implemented on sites like Youtube and Vimeo
 This project sought to combine existing techniques such as Optical Character Recognition, Object Recognition Neural Networks, and Sequence to Sequence learning to extract information from cooking videos in order to produce better captions. The work of this project shows promise for the use of weaker existing programs in order to create domain specific expertise without the need for more training, in order to harness the combined power of existing technologies.
+
 ## Contents
 
-1. Layout & Description
-2. FFMPEG splitting
-3. Text Extraction Gallery
-4. Image Caption Gallery
-5. Accuracy example
-6. S2VT outline and example
+1. [Layout & Description]
+2. [FFMPEG splitting](https://github.com/dsiah/SeniorProject#ffmpeg-splitting)
+3. [Text Extraction Gallery](https://github.com/dsiah/SeniorProject#text-extraction-gallery)
+4. [Image Caption Gallery](https://github.com/dsiah/SeniorProject#image-caption-gallery)
+5. [Accuracy example](https://github.com/dsiah/SeniorProject#accuracy-example)
+6. [S2VT outline and example](https://github.com/dsiah/SeniorProject#s2vt-outline-and-example)
+7. [Credits](https://github.com/dsiah/SeniorProject#credits)
 
 ## Layout & Description
+
 The following readme acts as a guide to the work that was produced during this semester's senior project. I have included the various files that I tailored in order to preprocess videos for the purpose of improving subtitles. The project is organized into the several stages of processesing with a brief explanation of the work and examples in each section. This repository also contains a sample video that was processed and the various pieces of information that were produced.
 <img src="https://dl.dropboxusercontent.com/u/45750707/Pipeline.png" alt="Pipeline photo" />
 
@@ -24,7 +27,7 @@ The results are in the [frames folder](https://github.com/dsiah/SeniorProject/tr
 ## Text Extraction Gallery
 <img src="https://dl.dropboxusercontent.com/u/45750707/StagesMatlab.png" alt="Matlab Stages"/>
 
-In this stage images were processed through [this matlab script](https://github.com/dsiah/SeniorProject/blob/master/TextDetectionStatic.m) to identify and isolate all overlayed text in all of the images (must be run in the same folder as the pictures). Output was stored
+In this stage images were processed through [this matlab script](https://github.com/dsiah/SeniorProject/blob/master/TextDetectionStatic.m) to identify and isolate all overlayed text in all of the images (must be run in the same folder as the pictures). An example of this output is stored [here](https://github.com/dsiah/SeniorProject/blob/master/ButternutSquashBake/TextExtracts.txt)
 
 
 ## Image Caption Gallery
@@ -64,6 +67,7 @@ for i in xrange(6, 870, 6):
 <img src="https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/out0120.jpg" height="256" width="256"> | [Caption_0120](https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/frame_out0120.txt)
 
 ## Accuracy example
+
 Accuracy nouns were extracted using two programs. The first is given a youtube video Id and the produced output is the description from the video. From the output that is piped to nltkTagger and the nouns are extracted from the video description.
 
 ```bash
@@ -71,6 +75,7 @@ node fetcher.js azydqgAwBE8 | python nltkTagger.py
 ```
 
 ## S2VT outline and example
+
 The captions for this video were generated in the steps outlined in [one-liner.py file](https://github.com/dsiah/SeniorProject/blob/master/misc/one-liners.py). The produced subtitles were produced for 16 frames at a time and the produced captions are in [this text file](https://github.com/dsiah/SeniorProject/blob/master/ButternutSquashBake/Captions.txt)
 
 ## Credits
