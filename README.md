@@ -5,7 +5,7 @@ This project sought to combine existing techniques such as Optical Character Rec
 
 ## Contents
 
-1. [Layout & Description]
+1. [Layout & Description](https://github.com/dsiah/SeniorProject#layout--description)
 2. [FFMPEG splitting](https://github.com/dsiah/SeniorProject#ffmpeg-splitting)
 3. [Text Extraction Gallery](https://github.com/dsiah/SeniorProject#text-extraction-gallery)
 4. [Image Caption Gallery](https://github.com/dsiah/SeniorProject#image-caption-gallery)
