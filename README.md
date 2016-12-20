@@ -12,6 +12,48 @@ This project sought to combine existing techniques such as Optical Character Rec
 5. Accuracy example
 6. S2VT outline and example
 
+## Layout & Description
+
+## FFMPEG splitting
+
+## Text Extraction Gallery
+
+## Image Caption Gallery
+
+The Image Caption gallery shows approximately first 60 frames of video chosen for object recognition labels via tensorflow.
+The two files altered in order to run batch jobs and create these captions are located in: [this repository](https://github.com/dsiah/SeniorProject/tree/master/tensorflow_altered/tensorflow/models/image/imagenet)
+
+The code to generate this table (in it's entirety is here)
+```python
+path = "https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/"
+
+for i in xrange(6, 870, 6):
+  print("<img src=\"{}out{:04d}.jpg\" height=\"256\" width=\"256\"> | [Caption_{:04d}]({}frame_out{:04d}.txt)".format(path, i, i, path, i))
+```
+
+| Image | Caption File Link |
+| ----- | ----------------- |
+<img src="https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/out0006.jpg" height="256" width="256"> | [Caption_0006](https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/frame_out0006.txt)
+<img src="https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/out0012.jpg" height="256" width="256"> | [Caption_0012](https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/frame_out0012.txt)
+<img src="https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/out0018.jpg" height="256" width="256"> | [Caption_0018](https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/frame_out0018.txt)
+<img src="https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/out0024.jpg" height="256" width="256"> | [Caption_0024](https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/frame_out0024.txt)
+<img src="https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/out0030.jpg" height="256" width="256"> | [Caption_0030](https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/frame_out0030.txt)
+<img src="https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/out0036.jpg" height="256" width="256"> | [Caption_0036](https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/frame_out0036.txt)
+<img src="https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/out0042.jpg" height="256" width="256"> | [Caption_0042](https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/frame_out0042.txt)
+<img src="https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/out0048.jpg" height="256" width="256"> | [Caption_0048](https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/frame_out0048.txt)
+<img src="https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/out0054.jpg" height="256" width="256"> | [Caption_0054](https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/frame_out0054.txt)
+<img src="https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/out0060.jpg" height="256" width="256"> | [Caption_0060](https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/frame_out0060.txt)
+<img src="https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/out0066.jpg" height="256" width="256"> | [Caption_0066](https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/frame_out0066.txt)
+<img src="https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/out0072.jpg" height="256" width="256"> | [Caption_0072](https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/frame_out0072.txt)
+<img src="https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/out0078.jpg" height="256" width="256"> | [Caption_0078](https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/frame_out0078.txt)
+<img src="https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/out0084.jpg" height="256" width="256"> | [Caption_0084](https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/frame_out0084.txt)
+<img src="https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/out0090.jpg" height="256" width="256"> | [Caption_0090](https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/frame_out0090.txt)
+<img src="https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/out0096.jpg" height="256" width="256"> | [Caption_0096](https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/frame_out0096.txt)
+<img src="https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/out0102.jpg" height="256" width="256"> | [Caption_0102](https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/frame_out0102.txt)
+<img src="https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/out0108.jpg" height="256" width="256"> | [Caption_0108](https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/frame_out0108.txt)
+<img src="https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/out0114.jpg" height="256" width="256"> | [Caption_0114](https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/frame_out0114.txt)
+<img src="https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/out0120.jpg" height="256" width="256"> | [Caption_0120](https://raw.githubusercontent.com/dsiah/SeniorProject/master/ButternutSquashBake/betterframes/frame_out0120.txt)
+
 ## Credits
 
 Numerous projects were combined in this project they are outlined in the papers and code bases below:
