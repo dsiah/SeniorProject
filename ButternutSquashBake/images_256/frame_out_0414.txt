@@ -1,0 +1,5 @@
+sandal (score = 0.21613)
+clog, geta, patten, sabot (score = 0.16297)
+cowboy boot (score = 0.12696)
+French horn, horn (score = 0.04517)
+pay-phone, pay-station (score = 0.02579)

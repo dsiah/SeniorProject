@@ -1,0 +1,5 @@
+corn (score = 0.17531)
+web site, website, internet site, site (score = 0.03691)
+hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa (score = 0.03342)
+meat loaf, meatloaf (score = 0.02595)
+plate (score = 0.02194)

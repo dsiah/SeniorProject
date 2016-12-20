@@ -1,0 +1,5 @@
+honeycomb (score = 0.10182)
+burrito (score = 0.06587)
+conch (score = 0.06080)
+potpie (score = 0.04514)
+corn (score = 0.02829)

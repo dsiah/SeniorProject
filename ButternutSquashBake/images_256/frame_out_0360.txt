@@ -1,0 +1,5 @@
+nipple (score = 0.67672)
+oxygen mask (score = 0.11085)
+mousetrap (score = 0.02343)
+bucket, pail (score = 0.01468)
+stethoscope (score = 0.00987)

@@ -1,0 +1,5 @@
+toilet seat (score = 0.16719)
+wooden spoon (score = 0.08440)
+jack-o'-lantern (score = 0.07871)
+shield, buckler (score = 0.05620)
+bolo tie, bolo, bola tie, bola (score = 0.04264)

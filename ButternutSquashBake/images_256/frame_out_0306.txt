@@ -1,0 +1,5 @@
+gong, tam-tam (score = 0.80029)
+Petri dish (score = 0.02696)
+chime, bell, gong (score = 0.01767)
+oxygen mask (score = 0.00960)
+spotlight, spot (score = 0.00778)

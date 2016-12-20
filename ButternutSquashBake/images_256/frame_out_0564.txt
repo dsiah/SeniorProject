@@ -1,0 +1,5 @@
+soap dispenser (score = 0.11983)
+paper towel (score = 0.07903)
+breastplate, aegis, egis (score = 0.07080)
+wall clock (score = 0.05394)
+pedestal, plinth, footstall (score = 0.04432)

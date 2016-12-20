@@ -1,0 +1,5 @@
+tennis ball (score = 0.07950)
+nipple (score = 0.06245)
+gong, tam-tam (score = 0.05988)
+racket, racquet (score = 0.02873)
+spaghetti squash (score = 0.02848)

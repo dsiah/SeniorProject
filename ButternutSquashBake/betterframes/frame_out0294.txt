@@ -1,0 +1,5 @@
+gong, tam-tam (score = 0.31753)
+wardrobe, closet, press (score = 0.10028)
+hook, claw (score = 0.05745)
+wall clock (score = 0.03487)
+shield, buckler (score = 0.03211)

@@ -1,0 +1,5 @@
+tiger shark, Galeocerdo cuvieri (score = 0.23077)
+chocolate sauce, chocolate syrup (score = 0.11005)
+dough (score = 0.03558)
+great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias (score = 0.03406)
+cowboy boot (score = 0.02457)

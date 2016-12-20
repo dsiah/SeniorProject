@@ -1,0 +1,5 @@
+mashed potato (score = 0.20427)
+plate (score = 0.15999)
+potpie (score = 0.13836)
+trifle (score = 0.03134)
+burrito (score = 0.02935)

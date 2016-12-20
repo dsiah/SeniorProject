@@ -1,0 +1,5 @@
+traffic light, traffic signal, stoplight (score = 0.02679)
+bonnet, poke bonnet (score = 0.02666)
+spotlight, spot (score = 0.02612)
+cuirass (score = 0.02417)
+crash helmet (score = 0.02352)

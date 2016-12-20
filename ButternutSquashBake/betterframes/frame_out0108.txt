@@ -1,0 +1,5 @@
+toilet seat (score = 0.42307)
+traffic light, traffic signal, stoplight (score = 0.22679)
+tray (score = 0.02959)
+corn (score = 0.02043)
+banjo (score = 0.01700)

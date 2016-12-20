@@ -1,0 +1,5 @@
+shield, buckler (score = 0.18028)
+pickelhaube (score = 0.10098)
+gong, tam-tam (score = 0.08839)
+fire screen, fireguard (score = 0.05559)
+bolo tie, bolo, bola tie, bola (score = 0.04959)

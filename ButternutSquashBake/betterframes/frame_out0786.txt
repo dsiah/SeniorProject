@@ -1,0 +1,5 @@
+street sign (score = 0.48227)
+web site, website, internet site, site (score = 0.13130)
+envelope (score = 0.05885)
+rule, ruler (score = 0.01277)
+puck, hockey puck (score = 0.00832)

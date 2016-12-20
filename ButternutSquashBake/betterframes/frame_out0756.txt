@@ -1,0 +1,5 @@
+paintbrush (score = 0.09912)
+matchstick (score = 0.08333)
+pencil sharpener (score = 0.02142)
+bee (score = 0.02023)
+screwdriver (score = 0.02010)

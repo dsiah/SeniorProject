@@ -1,0 +1,5 @@
+plate rack (score = 0.43192)
+gong, tam-tam (score = 0.13093)
+iron, smoothing iron (score = 0.07144)
+fire screen, fireguard (score = 0.02077)
+shield, buckler (score = 0.01962)

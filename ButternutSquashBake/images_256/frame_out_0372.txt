@@ -1,0 +1,5 @@
+gong, tam-tam (score = 0.38573)
+chime, bell, gong (score = 0.02745)
+eggnog (score = 0.01756)
+wardrobe, closet, press (score = 0.01747)
+Petri dish (score = 0.01638)

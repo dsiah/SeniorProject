@@ -1,0 +1,5 @@
+toilet seat (score = 0.68835)
+bolo tie, bolo, bola tie, bola (score = 0.08458)
+shield, buckler (score = 0.02708)
+frying pan, frypan, skillet (score = 0.01547)
+gong, tam-tam (score = 0.01471)

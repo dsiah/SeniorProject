@@ -1,0 +1,5 @@
+gong, tam-tam (score = 0.43020)
+hook, claw (score = 0.02580)
+chime, bell, gong (score = 0.02293)
+bucket, pail (score = 0.02107)
+racket, racquet (score = 0.01615)

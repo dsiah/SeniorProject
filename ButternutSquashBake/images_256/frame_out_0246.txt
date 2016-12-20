@@ -1,0 +1,5 @@
+gong, tam-tam (score = 0.12641)
+wok (score = 0.03795)
+cleaver, meat cleaver, chopper (score = 0.03497)
+bell pepper (score = 0.03262)
+vase (score = 0.03048)

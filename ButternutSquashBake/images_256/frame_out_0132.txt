@@ -1,0 +1,5 @@
+gong, tam-tam (score = 0.27795)
+chambered nautilus, pearly nautilus, nautilus (score = 0.07490)
+bolo tie, bolo, bola tie, bola (score = 0.02636)
+plate rack (score = 0.02252)
+spindle (score = 0.01958)

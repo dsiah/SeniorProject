@@ -1,0 +1,5 @@
+plate rack (score = 0.34612)
+swab, swob, mop (score = 0.18496)
+isopod (score = 0.05168)
+bolo tie, bolo, bola tie, bola (score = 0.04127)
+wardrobe, closet, press (score = 0.02829)

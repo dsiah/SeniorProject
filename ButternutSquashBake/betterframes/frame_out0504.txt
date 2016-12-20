@@ -1,0 +1,5 @@
+bakery, bakeshop, bakehouse (score = 0.27449)
+dough (score = 0.20561)
+French loaf (score = 0.05378)
+plate (score = 0.05033)
+mashed potato (score = 0.02542)

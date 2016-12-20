@@ -1,0 +1,5 @@
+paper towel (score = 0.87921)
+toilet tissue, toilet paper, bathroom tissue (score = 0.03588)
+diaper, nappy, napkin (score = 0.02857)
+nipple (score = 0.00241)
+knee pad (score = 0.00234)

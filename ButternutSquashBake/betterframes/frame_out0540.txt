@@ -1,0 +1,5 @@
+knot (score = 0.51718)
+dough (score = 0.04930)
+hair slide (score = 0.03035)
+snail (score = 0.02612)
+corn (score = 0.02054)

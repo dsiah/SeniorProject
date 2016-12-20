@@ -1,0 +1,5 @@
+tray (score = 0.15346)
+bakery, bakeshop, bakehouse (score = 0.11588)
+sandal (score = 0.03118)
+clog, geta, patten, sabot (score = 0.03090)
+purse (score = 0.01916)

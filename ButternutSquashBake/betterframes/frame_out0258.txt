@@ -1,0 +1,5 @@
+corn (score = 0.64190)
+potpie (score = 0.07809)
+hot pot, hotpot (score = 0.04937)
+ear, spike, capitulum (score = 0.04059)
+acorn squash (score = 0.02123)

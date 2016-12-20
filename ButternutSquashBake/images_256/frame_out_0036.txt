@@ -1,0 +1,5 @@
+corn (score = 0.11270)
+frying pan, frypan, skillet (score = 0.10438)
+ear, spike, capitulum (score = 0.03490)
+toilet seat (score = 0.02991)
+candle, taper, wax light (score = 0.01899)

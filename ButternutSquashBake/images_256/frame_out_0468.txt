@@ -1,0 +1,5 @@
+can opener, tin opener (score = 0.37857)
+hook, claw (score = 0.04720)
+mouse, computer mouse (score = 0.04311)
+plane, carpenter's plane, woodworking plane (score = 0.01386)
+face powder (score = 0.01302)

@@ -1,0 +1,5 @@
+ladle (score = 0.22209)
+scabbard (score = 0.03758)
+hand blower, blow dryer, blow drier, hair dryer, hair drier (score = 0.03294)
+pay-phone, pay-station (score = 0.03062)
+vase (score = 0.02466)

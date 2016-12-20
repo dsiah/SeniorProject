@@ -1,0 +1,5 @@
+hatchet (score = 0.11590)
+water jug (score = 0.04039)
+whiskey jug (score = 0.01935)
+nematode, nematode worm, roundworm (score = 0.01873)
+paper towel (score = 0.01479)

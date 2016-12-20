@@ -1,0 +1,5 @@
+pay-phone, pay-station (score = 0.19646)
+dial telephone, dial phone (score = 0.08079)
+ladle (score = 0.05610)
+scabbard (score = 0.03983)
+can opener, tin opener (score = 0.01347)

@@ -1,0 +1,5 @@
+ladle (score = 0.07584)
+wok (score = 0.06103)
+abacus (score = 0.02140)
+shield, buckler (score = 0.01858)
+caldron, cauldron (score = 0.01816)

@@ -1,0 +1,5 @@
+corn (score = 0.95514)
+ear, spike, capitulum (score = 0.01117)
+hot pot, hotpot (score = 0.00733)
+potpie (score = 0.00622)
+consomme (score = 0.00190)

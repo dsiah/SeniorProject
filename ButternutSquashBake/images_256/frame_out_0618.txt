@@ -1,0 +1,5 @@
+paper towel (score = 0.83828)
+toilet tissue, toilet paper, bathroom tissue (score = 0.04659)
+solar dish, solar collector, solar furnace (score = 0.00994)
+plastic bag (score = 0.00891)
+folding chair (score = 0.00373)

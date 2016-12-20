@@ -1,0 +1,5 @@
+toilet seat (score = 0.75176)
+bolo tie, bolo, bola tie, bola (score = 0.02008)
+gong, tam-tam (score = 0.01333)
+fire screen, fireguard (score = 0.00556)
+drum, membranophone, tympan (score = 0.00548)

@@ -1,0 +1,5 @@
+gong, tam-tam (score = 0.54160)
+chime, bell, gong (score = 0.07661)
+shield, buckler (score = 0.03481)
+pickelhaube (score = 0.01936)
+bolo tie, bolo, bola tie, bola (score = 0.01121)

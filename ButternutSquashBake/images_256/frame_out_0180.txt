@@ -1,0 +1,5 @@
+gong, tam-tam (score = 0.09301)
+pretzel (score = 0.06205)
+toilet seat (score = 0.05102)
+shower cap (score = 0.02976)
+bonnet, poke bonnet (score = 0.01982)

@@ -1,0 +1,5 @@
+oxygen mask (score = 0.41040)
+gasmask, respirator, gas helmet (score = 0.14681)
+stethoscope (score = 0.08780)
+pay-phone, pay-station (score = 0.04103)
+nipple (score = 0.03053)

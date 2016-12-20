@@ -1,0 +1,5 @@
+paper towel (score = 0.57806)
+toilet seat (score = 0.16231)
+toilet tissue, toilet paper, bathroom tissue (score = 0.08130)
+hourglass (score = 0.01185)
+water jug (score = 0.00714)

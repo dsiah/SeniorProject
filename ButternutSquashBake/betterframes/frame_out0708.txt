@@ -1,0 +1,5 @@
+mashed potato (score = 0.37260)
+potpie (score = 0.13139)
+plate (score = 0.07709)
+meat loaf, meatloaf (score = 0.02815)
+burrito (score = 0.02645)

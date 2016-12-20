@@ -1,0 +1,5 @@
+diaper, nappy, napkin (score = 0.54147)
+toilet tissue, toilet paper, bathroom tissue (score = 0.04908)
+plastic bag (score = 0.04401)
+ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin (score = 0.03531)
+paper towel (score = 0.02663)

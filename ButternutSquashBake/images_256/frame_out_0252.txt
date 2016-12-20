@@ -1,0 +1,5 @@
+wooden spoon (score = 0.30054)
+wok (score = 0.06699)
+maraca (score = 0.05859)
+ladle (score = 0.05144)
+chambered nautilus, pearly nautilus, nautilus (score = 0.04760)

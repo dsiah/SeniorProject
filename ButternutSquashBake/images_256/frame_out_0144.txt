@@ -1,0 +1,5 @@
+plate rack (score = 0.32006)
+chiton, coat-of-mail shell, sea cradle, polyplacophore (score = 0.12081)
+gong, tam-tam (score = 0.07990)
+bolo tie, bolo, bola tie, bola (score = 0.04077)
+wooden spoon (score = 0.02194)

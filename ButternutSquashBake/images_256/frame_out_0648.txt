@@ -1,0 +1,5 @@
+crate (score = 0.44219)
+file, file cabinet, filing cabinet (score = 0.03025)
+mousetrap (score = 0.01891)
+carton (score = 0.01547)
+packet (score = 0.01520)

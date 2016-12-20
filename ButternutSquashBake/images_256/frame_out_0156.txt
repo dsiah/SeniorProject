@@ -1,0 +1,5 @@
+clog, geta, patten, sabot (score = 0.20521)
+gong, tam-tam (score = 0.10745)
+toilet seat (score = 0.06466)
+chambered nautilus, pearly nautilus, nautilus (score = 0.06076)
+bolo tie, bolo, bola tie, bola (score = 0.02700)

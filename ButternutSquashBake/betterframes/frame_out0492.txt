@@ -1,0 +1,5 @@
+iron, smoothing iron (score = 0.29079)
+plate (score = 0.05078)
+toaster (score = 0.04855)
+toilet seat (score = 0.04245)
+paper towel (score = 0.04018)

@@ -1,0 +1,5 @@
+spaghetti squash (score = 0.40566)
+potpie (score = 0.19316)
+plate (score = 0.13887)
+mashed potato (score = 0.11266)
+butternut squash (score = 0.01953)

@@ -1,0 +1,5 @@
+toilet seat (score = 0.17823)
+frying pan, frypan, skillet (score = 0.08102)
+corn (score = 0.04966)
+Dutch oven (score = 0.04550)
+kimono (score = 0.04367)

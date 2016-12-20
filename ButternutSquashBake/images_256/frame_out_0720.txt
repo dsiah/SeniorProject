@@ -1,0 +1,5 @@
+spaghetti squash (score = 0.29882)
+hotdog, hot dog, red hot (score = 0.22764)
+potpie (score = 0.05886)
+mashed potato (score = 0.02727)
+isopod (score = 0.02450)

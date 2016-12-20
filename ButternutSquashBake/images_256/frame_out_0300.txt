@@ -1,0 +1,5 @@
+spotlight, spot (score = 0.54743)
+electric fan, blower (score = 0.26789)
+washer, automatic washer, washing machine (score = 0.01836)
+gong, tam-tam (score = 0.01750)
+magnetic compass (score = 0.00602)

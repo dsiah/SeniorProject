@@ -1,0 +1,5 @@
+ladle (score = 0.11833)
+toilet seat (score = 0.11776)
+wooden spoon (score = 0.05270)
+plate (score = 0.03581)
+potpie (score = 0.02641)

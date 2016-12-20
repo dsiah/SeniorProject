@@ -1,0 +1,5 @@
+Petri dish (score = 0.22891)
+potpie (score = 0.20367)
+trifle (score = 0.07257)
+strainer (score = 0.05592)
+toilet seat (score = 0.04877)

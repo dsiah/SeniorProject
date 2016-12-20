@@ -1,0 +1,5 @@
+hair slide (score = 0.28311)
+hamster (score = 0.14143)
+paintbrush (score = 0.05073)
+mousetrap (score = 0.02804)
+Angora, Angora rabbit (score = 0.01780)

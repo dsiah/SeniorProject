@@ -1,0 +1,5 @@
+soap dispenser (score = 0.28780)
+candle, taper, wax light (score = 0.05122)
+pedestal, plinth, footstall (score = 0.04734)
+pill bottle (score = 0.04632)
+lotion (score = 0.04549)

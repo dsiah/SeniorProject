@@ -1,0 +1,5 @@
+toilet seat (score = 0.19306)
+chambered nautilus, pearly nautilus, nautilus (score = 0.11631)
+gong, tam-tam (score = 0.05591)
+crutch (score = 0.04814)
+bolo tie, bolo, bola tie, bola (score = 0.04172)

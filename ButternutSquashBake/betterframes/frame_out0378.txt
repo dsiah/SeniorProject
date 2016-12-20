@@ -1,0 +1,5 @@
+mashed potato (score = 0.84777)
+ice cream, icecream (score = 0.05039)
+dough (score = 0.03769)
+eggnog (score = 0.01030)
+trifle (score = 0.00669)

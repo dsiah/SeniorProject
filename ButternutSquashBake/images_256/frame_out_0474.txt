@@ -1,0 +1,5 @@
+plunger, plumber's helper (score = 0.34313)
+space heater (score = 0.03587)
+quill, quill pen (score = 0.03108)
+Loafer (score = 0.02468)
+clog, geta, patten, sabot (score = 0.02107)

@@ -1,0 +1,5 @@
+head cabbage (score = 0.48253)
+wok (score = 0.04899)
+guacamole (score = 0.04623)
+pot, flowerpot (score = 0.03443)
+hot pot, hotpot (score = 0.01640)

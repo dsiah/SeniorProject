@@ -1,0 +1,5 @@
+corn (score = 0.21282)
+Dutch oven (score = 0.07212)
+traffic light, traffic signal, stoplight (score = 0.04816)
+ear, spike, capitulum (score = 0.03597)
+can opener, tin opener (score = 0.03346)

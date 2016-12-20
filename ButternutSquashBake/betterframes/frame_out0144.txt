@@ -1,0 +1,5 @@
+bolo tie, bolo, bola tie, bola (score = 0.30788)
+toilet seat (score = 0.04822)
+jack-o'-lantern (score = 0.03107)
+shield, buckler (score = 0.02690)
+plate rack (score = 0.02239)

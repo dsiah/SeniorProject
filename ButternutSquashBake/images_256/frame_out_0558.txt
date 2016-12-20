@@ -1,0 +1,5 @@
+breastplate, aegis, egis (score = 0.21510)
+whiskey jug (score = 0.13568)
+throne (score = 0.10748)
+cuirass (score = 0.06209)
+shield, buckler (score = 0.05649)

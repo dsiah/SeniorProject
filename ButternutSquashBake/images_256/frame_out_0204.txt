@@ -1,0 +1,5 @@
+gong, tam-tam (score = 0.50590)
+drum, membranophone, tympan (score = 0.26663)
+toilet seat (score = 0.01920)
+chime, bell, gong (score = 0.01913)
+barrel, cask (score = 0.01744)

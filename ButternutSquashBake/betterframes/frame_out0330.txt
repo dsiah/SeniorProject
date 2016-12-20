@@ -1,0 +1,5 @@
+nipple (score = 0.11042)
+ping-pong ball (score = 0.07790)
+combination lock (score = 0.07249)
+oxygen mask (score = 0.06158)
+soap dispenser (score = 0.06150)

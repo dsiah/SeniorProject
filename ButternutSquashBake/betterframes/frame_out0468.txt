@@ -1,0 +1,5 @@
+can opener, tin opener (score = 0.13221)
+seat belt, seatbelt (score = 0.06368)
+mouse, computer mouse (score = 0.06140)
+hook, claw (score = 0.02763)
+hair slide (score = 0.01925)

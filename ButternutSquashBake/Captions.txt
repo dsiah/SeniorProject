@@ -1,0 +1,54 @@
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is cooking a frying pan.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is cooking.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is cooking.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is cooking.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is cooking.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is cooking.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A person is cooking.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A person is cooking.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A person is cooking.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A person is cooking.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A person is cooking.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A person is cooking.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is cutting a large bowl.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is cooking a bowl.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A person is cutting a piece of a knife.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A person is cutting a huge full.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is cooking some something.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is cooking.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is mixing a mixture.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is mixing a mixture.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is pouring a liquid.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is cooking.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is cooking.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A person is mixing a frying pan.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is cooking.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A man is running in a large large large hands.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is cooking.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is mixing a mixture.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is mixing the flour.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is mixing some flour in a bowl.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is mixing a mixture.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is cutting a piece of meat.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is mixing some meat.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A person is mixing some something.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is doing a huge sheet.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A man is cutting a large full of a sword.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A man is cooking a pan.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is cooking.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is cooking.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A person is cutting a large knife.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is preparing a small bowl.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A person is mixing a piece of a large pan.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is cooking.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A woman is mixing a piece of a skillet.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A man is getting some something.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A man is running in a pan.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A gorilla is running in a pan.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A chef is cutting a huge paper.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A man is cutting a paper.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A man is cutting a paper.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A man is using a large board.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A man is pouring a large white face.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A man is pouring a large white face.
+beam_size_1	/home/dsiah/Documents/videos/food/ButternutSquashStuffedPastaBakeazydqgAwBE8/out	A man is pouring something.

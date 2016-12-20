@@ -1,0 +1,5 @@
+head cabbage (score = 0.76690)
+broccoli (score = 0.04222)
+cauliflower (score = 0.03755)
+shopping basket (score = 0.02071)
+hot pot, hotpot (score = 0.01848)

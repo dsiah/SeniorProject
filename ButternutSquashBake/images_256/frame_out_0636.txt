@@ -1,0 +1,5 @@
+wardrobe, closet, press (score = 0.14817)
+spaghetti squash (score = 0.13046)
+dough (score = 0.07227)
+hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa (score = 0.04995)
+chiffonier, commode (score = 0.03583)

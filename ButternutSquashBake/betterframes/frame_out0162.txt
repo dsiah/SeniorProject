@@ -1,0 +1,5 @@
+maraca (score = 0.18687)
+toilet seat (score = 0.12704)
+mask (score = 0.08166)
+corn (score = 0.05931)
+bolo tie, bolo, bola tie, bola (score = 0.04820)

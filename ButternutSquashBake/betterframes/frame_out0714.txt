@@ -1,0 +1,5 @@
+burrito (score = 0.24016)
+spaghetti squash (score = 0.16999)
+potpie (score = 0.12300)
+mashed potato (score = 0.05289)
+hotdog, hot dog, red hot (score = 0.02814)

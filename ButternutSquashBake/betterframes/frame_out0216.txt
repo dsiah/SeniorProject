@@ -1,0 +1,5 @@
+toilet seat (score = 0.08203)
+vase (score = 0.04435)
+isopod (score = 0.03031)
+hamper (score = 0.02884)
+pot, flowerpot (score = 0.01767)

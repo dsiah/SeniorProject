@@ -1,0 +1,5 @@
+corn (score = 0.11201)
+hamster (score = 0.10269)
+mousetrap (score = 0.06785)
+wardrobe, closet, press (score = 0.06330)
+ping-pong ball (score = 0.05963)

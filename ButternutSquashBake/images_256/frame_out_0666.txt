@@ -1,0 +1,5 @@
+spaghetti squash (score = 0.32400)
+waffle iron (score = 0.21278)
+meat loaf, meatloaf (score = 0.11188)
+potpie (score = 0.04904)
+wardrobe, closet, press (score = 0.02533)

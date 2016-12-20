@@ -1,0 +1,5 @@
+toilet seat (score = 0.74180)
+plate rack (score = 0.05163)
+wooden spoon (score = 0.02817)
+clog, geta, patten, sabot (score = 0.02391)
+bolo tie, bolo, bola tie, bola (score = 0.01319)

@@ -1,0 +1,5 @@
+acorn squash (score = 0.11548)
+potpie (score = 0.05269)
+toilet seat (score = 0.05242)
+tiger shark, Galeocerdo cuvieri (score = 0.04493)
+chiton, coat-of-mail shell, sea cradle, polyplacophore (score = 0.04090)

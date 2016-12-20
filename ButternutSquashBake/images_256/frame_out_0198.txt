@@ -1,0 +1,5 @@
+gong, tam-tam (score = 0.54595)
+toilet seat (score = 0.07809)
+drum, membranophone, tympan (score = 0.04264)
+shield, buckler (score = 0.04071)
+banjo (score = 0.01902)

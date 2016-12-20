@@ -1,0 +1,5 @@
+corn (score = 0.54798)
+ear, spike, capitulum (score = 0.03927)
+web site, website, internet site, site (score = 0.03590)
+shower curtain (score = 0.01673)
+potpie (score = 0.01117)

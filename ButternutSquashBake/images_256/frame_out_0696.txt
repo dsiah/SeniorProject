@@ -1,0 +1,5 @@
+French loaf (score = 0.29997)
+pretzel (score = 0.14176)
+potpie (score = 0.12779)
+bagel, beigel (score = 0.12395)
+meat loaf, meatloaf (score = 0.05243)

@@ -1,0 +1,5 @@
+wok (score = 0.16684)
+potpie (score = 0.14819)
+plate (score = 0.14081)
+head cabbage (score = 0.05642)
+hot pot, hotpot (score = 0.05237)

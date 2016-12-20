@@ -1,0 +1,5 @@
+gong, tam-tam (score = 0.25566)
+bolo tie, bolo, bola tie, bola (score = 0.18209)
+toilet seat (score = 0.06583)
+plate rack (score = 0.06238)
+drum, membranophone, tympan (score = 0.01796)

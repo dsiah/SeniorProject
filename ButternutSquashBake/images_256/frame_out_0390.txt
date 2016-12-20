@@ -1,0 +1,5 @@
+wardrobe, closet, press (score = 0.05804)
+wooden spoon (score = 0.03308)
+sandal (score = 0.02508)
+gong, tam-tam (score = 0.02376)
+bow (score = 0.02189)

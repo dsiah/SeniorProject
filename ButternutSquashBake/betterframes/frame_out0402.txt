@@ -1,0 +1,5 @@
+scabbard (score = 0.49335)
+letter opener, paper knife, paperknife (score = 0.03636)
+ladle (score = 0.03370)
+can opener, tin opener (score = 0.02371)
+hair slide (score = 0.01841)

@@ -1,0 +1,5 @@
+gong, tam-tam (score = 0.39540)
+spaghetti squash (score = 0.07120)
+wardrobe, closet, press (score = 0.05611)
+eggnog (score = 0.02811)
+mashed potato (score = 0.02394)

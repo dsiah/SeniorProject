@@ -1,0 +1,5 @@
+bucket, pail (score = 0.11983)
+coffee mug (score = 0.06705)
+packet (score = 0.05272)
+toilet tissue, toilet paper, bathroom tissue (score = 0.04864)
+bottlecap (score = 0.04608)

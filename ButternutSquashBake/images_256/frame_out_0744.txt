@@ -1,0 +1,5 @@
+spaghetti squash (score = 0.09524)
+mashed potato (score = 0.03209)
+isopod (score = 0.02888)
+coral fungus (score = 0.02865)
+hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa (score = 0.02773)

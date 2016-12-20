@@ -1,0 +1,5 @@
+corn (score = 0.46802)
+ear, spike, capitulum (score = 0.10251)
+traffic light, traffic signal, stoplight (score = 0.05736)
+bolo tie, bolo, bola tie, bola (score = 0.02137)
+stove (score = 0.01397)

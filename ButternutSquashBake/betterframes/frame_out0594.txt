@@ -1,0 +1,5 @@
+crate (score = 0.83346)
+chest (score = 0.01009)
+barrel, cask (score = 0.00914)
+ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin (score = 0.00423)
+file, file cabinet, filing cabinet (score = 0.00355)

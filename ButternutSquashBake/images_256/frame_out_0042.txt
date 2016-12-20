@@ -1,0 +1,5 @@
+corn (score = 0.40891)
+toilet seat (score = 0.14729)
+frying pan, frypan, skillet (score = 0.10982)
+wooden spoon (score = 0.05624)
+ear, spike, capitulum (score = 0.04875)

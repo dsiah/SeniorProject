@@ -1,0 +1,5 @@
+hook, claw (score = 0.18801)
+switch, electric switch, electrical switch (score = 0.06214)
+stethoscope (score = 0.05709)
+gong, tam-tam (score = 0.05011)
+tennis ball (score = 0.04882)

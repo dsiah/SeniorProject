@@ -1,0 +1,5 @@
+wooden spoon (score = 0.15236)
+toilet seat (score = 0.11257)
+clog, geta, patten, sabot (score = 0.08581)
+wall clock (score = 0.02731)
+plate rack (score = 0.02224)

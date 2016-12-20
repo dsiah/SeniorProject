@@ -1,0 +1,5 @@
+mashed potato (score = 0.24172)
+potpie (score = 0.09887)
+corn (score = 0.06215)
+burrito (score = 0.06079)
+spaghetti squash (score = 0.05470)

@@ -1,0 +1,5 @@
+corn (score = 0.98425)
+ear, spike, capitulum (score = 0.01132)
+potpie (score = 0.00096)
+plate (score = 0.00059)
+butternut squash (score = 0.00027)

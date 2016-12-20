@@ -1,0 +1,5 @@
+paper towel (score = 0.82379)
+toilet tissue, toilet paper, bathroom tissue (score = 0.05024)
+mailbag, postbag (score = 0.02103)
+bulletproof vest (score = 0.00800)
+diaper, nappy, napkin (score = 0.00799)

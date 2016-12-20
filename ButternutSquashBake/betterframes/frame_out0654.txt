@@ -1,0 +1,5 @@
+crate (score = 0.72137)
+chest (score = 0.02042)
+file, file cabinet, filing cabinet (score = 0.00883)
+barrel, cask (score = 0.00676)
+street sign (score = 0.00621)

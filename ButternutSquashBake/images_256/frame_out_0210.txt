@@ -1,0 +1,5 @@
+chambered nautilus, pearly nautilus, nautilus (score = 0.10932)
+hot pot, hotpot (score = 0.04037)
+caldron, cauldron (score = 0.03605)
+shower cap (score = 0.03013)
+consomme (score = 0.02548)

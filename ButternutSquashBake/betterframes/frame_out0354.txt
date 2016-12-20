@@ -1,0 +1,5 @@
+iron, smoothing iron (score = 0.18927)
+cocktail shaker (score = 0.07416)
+hair spray (score = 0.07371)
+hook, claw (score = 0.03871)
+sunscreen, sunblock, sun blocker (score = 0.02493)

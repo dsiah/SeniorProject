@@ -1,0 +1,5 @@
+clog, geta, patten, sabot (score = 0.47225)
+racket, racquet (score = 0.21328)
+wardrobe, closet, press (score = 0.03994)
+bonnet, poke bonnet (score = 0.03980)
+sandal (score = 0.02281)

@@ -1,0 +1,5 @@
+plate (score = 0.11749)
+tray (score = 0.09835)
+dough (score = 0.04176)
+ice cream, icecream (score = 0.03278)
+jackfruit, jak, jack (score = 0.03029)

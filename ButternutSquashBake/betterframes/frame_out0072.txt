@@ -1,0 +1,5 @@
+corn (score = 0.35990)
+ear, spike, capitulum (score = 0.08707)
+traffic light, traffic signal, stoplight (score = 0.01550)
+honeycomb (score = 0.01405)
+packet (score = 0.01127)

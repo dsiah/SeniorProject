@@ -1,0 +1,5 @@
+dough (score = 0.19758)
+diaper, nappy, napkin (score = 0.14563)
+ice cream, icecream (score = 0.07724)
+plate (score = 0.04075)
+bakery, bakeshop, bakehouse (score = 0.01967)

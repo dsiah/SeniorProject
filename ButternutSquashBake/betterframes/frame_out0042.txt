@@ -1,0 +1,5 @@
+wok (score = 0.20794)
+corn (score = 0.19813)
+Dutch oven (score = 0.04393)
+toilet seat (score = 0.03662)
+frying pan, frypan, skillet (score = 0.03175)

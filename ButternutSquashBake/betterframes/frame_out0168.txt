@@ -1,0 +1,5 @@
+frying pan, frypan, skillet (score = 0.21314)
+wooden spoon (score = 0.20307)
+toilet seat (score = 0.05721)
+spatula (score = 0.05177)
+wok (score = 0.04843)

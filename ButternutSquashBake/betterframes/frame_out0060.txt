@@ -1,0 +1,5 @@
+wok (score = 0.56177)
+corn (score = 0.27241)
+frying pan, frypan, skillet (score = 0.02367)
+ear, spike, capitulum (score = 0.02254)
+traffic light, traffic signal, stoplight (score = 0.01883)

@@ -1,0 +1,5 @@
+hot pot, hotpot (score = 0.14978)
+pot, flowerpot (score = 0.05448)
+guacamole (score = 0.04943)
+wok (score = 0.04755)
+strawberry (score = 0.03859)

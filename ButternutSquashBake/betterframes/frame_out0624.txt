@@ -1,0 +1,5 @@
+jackfruit, jak, jack (score = 0.15269)
+potpie (score = 0.12557)
+spaghetti squash (score = 0.04075)
+pretzel (score = 0.04064)
+shower cap (score = 0.03027)

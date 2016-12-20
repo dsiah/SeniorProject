@@ -1,0 +1,5 @@
+dough (score = 0.19803)
+bakery, bakeshop, bakehouse (score = 0.04927)
+plate (score = 0.04373)
+ice cream, icecream (score = 0.02147)
+pill bottle (score = 0.01712)

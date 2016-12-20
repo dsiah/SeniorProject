@@ -1,0 +1,5 @@
+toilet seat (score = 0.06017)
+wardrobe, closet, press (score = 0.03430)
+stole (score = 0.03020)
+sarong (score = 0.02749)
+jean, blue jean, denim (score = 0.02733)

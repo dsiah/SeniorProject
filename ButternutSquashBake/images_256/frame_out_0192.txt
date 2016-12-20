@@ -1,0 +1,5 @@
+wooden spoon (score = 0.66816)
+chambered nautilus, pearly nautilus, nautilus (score = 0.16340)
+spatula (score = 0.11440)
+ladle (score = 0.01147)
+toilet seat (score = 0.01058)

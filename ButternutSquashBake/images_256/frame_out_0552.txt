@@ -1,0 +1,5 @@
+toilet seat (score = 0.11949)
+bolo tie, bolo, bola tie, bola (score = 0.07159)
+gong, tam-tam (score = 0.05669)
+spotlight, spot (score = 0.02678)
+plate rack (score = 0.02233)

@@ -1,0 +1,5 @@
+corn (score = 0.37147)
+toilet seat (score = 0.26989)
+ear, spike, capitulum (score = 0.03764)
+pineapple, ananas (score = 0.02355)
+bolo tie, bolo, bola tie, bola (score = 0.02317)

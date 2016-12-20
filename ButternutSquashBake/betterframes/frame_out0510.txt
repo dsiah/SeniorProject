@@ -1,0 +1,5 @@
+wooden spoon (score = 0.33505)
+dough (score = 0.05825)
+butternut squash (score = 0.03729)
+bathtub, bathing tub, bath, tub (score = 0.02963)
+can opener, tin opener (score = 0.02761)

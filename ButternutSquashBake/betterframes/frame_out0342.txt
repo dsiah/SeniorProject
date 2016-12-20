@@ -1,0 +1,5 @@
+ice cream, icecream (score = 0.13618)
+nipple (score = 0.05884)
+dough (score = 0.04525)
+hook, claw (score = 0.04303)
+measuring cup (score = 0.03988)

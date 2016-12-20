@@ -1,0 +1,5 @@
+wok (score = 0.18382)
+frying pan, frypan, skillet (score = 0.13470)
+corn (score = 0.12849)
+Dutch oven (score = 0.10602)
+ear, spike, capitulum (score = 0.03875)

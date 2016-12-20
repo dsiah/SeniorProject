@@ -1,0 +1,5 @@
+toilet seat (score = 0.29971)
+switch, electric switch, electrical switch (score = 0.03518)
+wooden spoon (score = 0.03391)
+wall clock (score = 0.02936)
+plunger, plumber's helper (score = 0.02425)

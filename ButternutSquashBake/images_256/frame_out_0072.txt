@@ -1,0 +1,5 @@
+French loaf (score = 0.04304)
+corn (score = 0.03810)
+pizza, pizza pie (score = 0.03587)
+mask (score = 0.03384)
+honeycomb (score = 0.02997)

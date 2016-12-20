@@ -1,0 +1,5 @@
+pretzel (score = 0.14881)
+spaghetti squash (score = 0.08390)
+pizza, pizza pie (score = 0.04233)
+chiton, coat-of-mail shell, sea cradle, polyplacophore (score = 0.03647)
+toilet seat (score = 0.03467)

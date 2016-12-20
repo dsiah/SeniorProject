@@ -1,0 +1,5 @@
+spaghetti squash (score = 0.16199)
+wardrobe, closet, press (score = 0.08167)
+hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa (score = 0.05224)
+buckle (score = 0.05197)
+lighter, light, igniter, ignitor (score = 0.03838)

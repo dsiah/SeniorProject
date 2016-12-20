@@ -1,0 +1,5 @@
+bucket, pail (score = 0.62470)
+gong, tam-tam (score = 0.04204)
+mousetrap (score = 0.04139)
+caldron, cauldron (score = 0.03679)
+hamper (score = 0.01612)

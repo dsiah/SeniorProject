@@ -1,0 +1,5 @@
+chambered nautilus, pearly nautilus, nautilus (score = 0.21959)
+wooden spoon (score = 0.19570)
+toilet seat (score = 0.10754)
+clog, geta, patten, sabot (score = 0.04735)
+gong, tam-tam (score = 0.02474)

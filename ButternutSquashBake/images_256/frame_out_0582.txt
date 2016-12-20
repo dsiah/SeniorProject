@@ -1,0 +1,5 @@
+plastic bag (score = 0.14061)
+paper towel (score = 0.11956)
+shower cap (score = 0.10827)
+hamper (score = 0.04712)
+ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin (score = 0.04519)

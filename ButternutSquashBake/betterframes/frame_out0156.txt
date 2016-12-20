@@ -1,0 +1,5 @@
+toilet seat (score = 0.49109)
+clog, geta, patten, sabot (score = 0.17499)
+sandal (score = 0.04313)
+maraca (score = 0.01137)
+bonnet, poke bonnet (score = 0.00820)

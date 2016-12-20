@@ -1,0 +1,5 @@
+wok (score = 0.62122)
+plate (score = 0.06333)
+hot pot, hotpot (score = 0.05479)
+wooden spoon (score = 0.01817)
+potpie (score = 0.01785)

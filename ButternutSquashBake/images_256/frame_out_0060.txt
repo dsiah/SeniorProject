@@ -1,0 +1,5 @@
+shield, buckler (score = 0.20901)
+gong, tam-tam (score = 0.11517)
+toilet seat (score = 0.07639)
+wok (score = 0.07156)
+wooden spoon (score = 0.04823)

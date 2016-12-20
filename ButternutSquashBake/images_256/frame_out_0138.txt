@@ -1,0 +1,5 @@
+gong, tam-tam (score = 0.34170)
+chambered nautilus, pearly nautilus, nautilus (score = 0.20749)
+bolo tie, bolo, bola tie, bola (score = 0.13043)
+toilet seat (score = 0.04232)
+drum, membranophone, tympan (score = 0.02092)

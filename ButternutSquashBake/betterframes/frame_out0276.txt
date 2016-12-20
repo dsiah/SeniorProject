@@ -1,0 +1,5 @@
+toilet seat (score = 0.42808)
+wooden spoon (score = 0.15903)
+wok (score = 0.15578)
+bonnet, poke bonnet (score = 0.02212)
+plate (score = 0.01775)

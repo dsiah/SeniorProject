@@ -1,0 +1,5 @@
+wok (score = 0.14989)
+gong, tam-tam (score = 0.11743)
+barrel, cask (score = 0.04415)
+frying pan, frypan, skillet (score = 0.04206)
+Dutch oven (score = 0.01390)

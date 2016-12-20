@@ -1,0 +1,5 @@
+Band Aid (score = 0.17593)
+acoustic guitar (score = 0.04368)
+soap dispenser (score = 0.02433)
+switch, electric switch, electrical switch (score = 0.02326)
+electric guitar (score = 0.02107)

@@ -1,0 +1,5 @@
+tennis ball (score = 0.19304)
+oxygen mask (score = 0.05808)
+gasmask, respirator, gas helmet (score = 0.04675)
+stethoscope (score = 0.03661)
+nipple (score = 0.03450)

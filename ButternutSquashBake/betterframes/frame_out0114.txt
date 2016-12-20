@@ -1,0 +1,5 @@
+toilet seat (score = 0.27155)
+safety pin (score = 0.10723)
+stove (score = 0.09821)
+great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias (score = 0.02006)
+corn (score = 0.01957)

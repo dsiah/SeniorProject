@@ -1,0 +1,5 @@
+gong, tam-tam (score = 0.57020)
+combination lock (score = 0.02428)
+chime, bell, gong (score = 0.02409)
+spotlight, spot (score = 0.01796)
+tennis ball (score = 0.01674)

@@ -1,0 +1,5 @@
+safety pin (score = 0.06807)
+web site, website, internet site, site (score = 0.06000)
+candle, taper, wax light (score = 0.03782)
+Christmas stocking (score = 0.03147)
+honeycomb (score = 0.02526)

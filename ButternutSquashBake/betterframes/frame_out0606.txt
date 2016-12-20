@@ -1,0 +1,5 @@
+diaper, nappy, napkin (score = 0.46825)
+paper towel (score = 0.08913)
+bulletproof vest (score = 0.08445)
+mailbag, postbag (score = 0.02683)
+sleeping bag (score = 0.01818)

@@ -1,0 +1,5 @@
+spaghetti squash (score = 0.25534)
+mashed potato (score = 0.22001)
+hair slide (score = 0.12727)
+acorn squash (score = 0.02856)
+paintbrush (score = 0.01877)

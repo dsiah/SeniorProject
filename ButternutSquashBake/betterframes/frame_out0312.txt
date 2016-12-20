@@ -1,0 +1,5 @@
+oxygen mask (score = 0.12558)
+tennis ball (score = 0.09907)
+nipple (score = 0.08524)
+gong, tam-tam (score = 0.03753)
+gasmask, respirator, gas helmet (score = 0.03405)

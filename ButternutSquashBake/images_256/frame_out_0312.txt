@@ -1,0 +1,5 @@
+oxygen mask (score = 0.21097)
+nipple (score = 0.08388)
+gong, tam-tam (score = 0.06431)
+gasmask, respirator, gas helmet (score = 0.03504)
+spotlight, spot (score = 0.02431)

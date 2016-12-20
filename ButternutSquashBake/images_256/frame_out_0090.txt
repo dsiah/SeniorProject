@@ -1,0 +1,5 @@
+wooden spoon (score = 0.80165)
+spatula (score = 0.04326)
+ladle (score = 0.01927)
+wok (score = 0.01207)
+frying pan, frypan, skillet (score = 0.01091)

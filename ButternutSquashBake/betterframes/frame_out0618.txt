@@ -1,0 +1,5 @@
+mailbag, postbag (score = 0.42474)
+hamper (score = 0.03881)
+backpack, back pack, knapsack, packsack, rucksack, haversack (score = 0.03880)
+purse (score = 0.02179)
+diaper, nappy, napkin (score = 0.01702)

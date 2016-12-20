@@ -1,0 +1,5 @@
+hourglass (score = 0.31393)
+toilet seat (score = 0.26212)
+wardrobe, closet, press (score = 0.02025)
+plate (score = 0.01836)
+nipple (score = 0.01320)

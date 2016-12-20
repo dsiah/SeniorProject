@@ -1,0 +1,5 @@
+plate rack (score = 0.27818)
+wardrobe, closet, press (score = 0.09203)
+clog, geta, patten, sabot (score = 0.05172)
+wall clock (score = 0.04892)
+rocking chair, rocker (score = 0.04606)

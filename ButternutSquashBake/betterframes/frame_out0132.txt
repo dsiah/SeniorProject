@@ -1,0 +1,5 @@
+toilet seat (score = 0.23731)
+bolo tie, bolo, bola tie, bola (score = 0.03704)
+pretzel (score = 0.03173)
+bonnet, poke bonnet (score = 0.02160)
+plate rack (score = 0.01921)

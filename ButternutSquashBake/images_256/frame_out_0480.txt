@@ -1,0 +1,5 @@
+toilet seat (score = 0.28558)
+paper towel (score = 0.14649)
+hourglass (score = 0.12439)
+soap dispenser (score = 0.09754)
+plate rack (score = 0.08850)

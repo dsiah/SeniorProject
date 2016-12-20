@@ -1,0 +1,5 @@
+stethoscope (score = 0.28902)
+hook, claw (score = 0.09910)
+switch, electric switch, electrical switch (score = 0.04417)
+bucket, pail (score = 0.03746)
+gong, tam-tam (score = 0.03624)

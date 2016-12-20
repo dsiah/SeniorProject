@@ -1,0 +1,5 @@
+toilet seat (score = 0.37737)
+corn (score = 0.15808)
+wok (score = 0.15597)
+traffic light, traffic signal, stoplight (score = 0.05726)
+frying pan, frypan, skillet (score = 0.05101)

@@ -1,0 +1,5 @@
+toilet seat (score = 0.10809)
+jack-o'-lantern (score = 0.10445)
+pretzel (score = 0.04660)
+fire screen, fireguard (score = 0.04616)
+corn (score = 0.04157)

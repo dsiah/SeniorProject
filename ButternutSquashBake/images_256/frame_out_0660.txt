@@ -1,0 +1,5 @@
+throne (score = 0.75351)
+studio couch, day bed (score = 0.03525)
+wardrobe, closet, press (score = 0.02345)
+rocking chair, rocker (score = 0.01308)
+barber chair (score = 0.00711)

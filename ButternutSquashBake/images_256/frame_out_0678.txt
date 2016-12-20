@@ -1,0 +1,5 @@
+hair slide (score = 0.07333)
+wardrobe, closet, press (score = 0.05816)
+swab, swob, mop (score = 0.03615)
+hatchet (score = 0.03542)
+velvet (score = 0.03276)

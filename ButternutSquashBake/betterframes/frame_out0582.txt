@@ -1,0 +1,5 @@
+diaper, nappy, napkin (score = 0.40700)
+sleeping bag (score = 0.05291)
+shower cap (score = 0.03158)
+velvet (score = 0.02365)
+backpack, back pack, knapsack, packsack, rucksack, haversack (score = 0.01984)

@@ -1,0 +1,5 @@
+cauliflower (score = 0.11402)
+mashed potato (score = 0.11362)
+ice cream, icecream (score = 0.10475)
+meat loaf, meatloaf (score = 0.06315)
+trifle (score = 0.05589)

@@ -1,0 +1,5 @@
+bucket, pail (score = 0.11859)
+coffee mug (score = 0.06744)
+packet (score = 0.05375)
+bottlecap (score = 0.04704)
+carton (score = 0.04631)

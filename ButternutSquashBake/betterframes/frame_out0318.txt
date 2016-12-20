@@ -1,0 +1,5 @@
+oxygen mask (score = 0.76438)
+nipple (score = 0.04572)
+gasmask, respirator, gas helmet (score = 0.02594)
+plastic bag (score = 0.01379)
+snorkel (score = 0.01361)

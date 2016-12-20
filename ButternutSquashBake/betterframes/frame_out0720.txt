@@ -1,0 +1,5 @@
+hotdog, hot dog, red hot (score = 0.22619)
+potpie (score = 0.19059)
+burrito (score = 0.06357)
+consomme (score = 0.01547)
+mashed potato (score = 0.01419)

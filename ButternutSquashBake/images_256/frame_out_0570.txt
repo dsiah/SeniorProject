@@ -1,0 +1,5 @@
+ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin (score = 0.15403)
+hamper (score = 0.14342)
+mailbag, postbag (score = 0.11562)
+packet (score = 0.03946)
+plastic bag (score = 0.03725)

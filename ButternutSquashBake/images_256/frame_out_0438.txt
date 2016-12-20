@@ -1,0 +1,5 @@
+bolo tie, bolo, bola tie, bola (score = 0.16528)
+pickelhaube (score = 0.10574)
+shield, buckler (score = 0.03304)
+fire screen, fireguard (score = 0.03170)
+ladle (score = 0.03134)

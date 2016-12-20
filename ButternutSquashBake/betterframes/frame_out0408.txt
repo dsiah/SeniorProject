@@ -1,0 +1,5 @@
+ladle (score = 0.18026)
+quill, quill pen (score = 0.10085)
+scabbard (score = 0.04405)
+tray (score = 0.03743)
+letter opener, paper knife, paperknife (score = 0.03495)

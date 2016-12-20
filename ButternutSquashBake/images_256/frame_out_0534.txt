@@ -1,0 +1,5 @@
+wardrobe, closet, press (score = 0.04085)
+banana (score = 0.03494)
+panpipe, pandean pipe, syrinx (score = 0.02189)
+shower cap (score = 0.02016)
+toilet seat (score = 0.01870)

@@ -1,0 +1,5 @@
+mailbag, postbag (score = 0.26182)
+stretcher (score = 0.09113)
+packet (score = 0.07747)
+envelope (score = 0.07142)
+paper towel (score = 0.05364)

@@ -1,0 +1,5 @@
+oxygen mask (score = 0.90505)
+nipple (score = 0.02252)
+spotlight, spot (score = 0.02008)
+electric fan, blower (score = 0.01092)
+gasmask, respirator, gas helmet (score = 0.00466)

@@ -1,0 +1,5 @@
+oxygen mask (score = 0.18500)
+tennis ball (score = 0.15719)
+racket, racquet (score = 0.09209)
+bucket, pail (score = 0.05426)
+gasmask, respirator, gas helmet (score = 0.04404)

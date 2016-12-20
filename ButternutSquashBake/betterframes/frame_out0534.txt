@@ -1,0 +1,5 @@
+hotdog, hot dog, red hot (score = 0.48712)
+snail (score = 0.03754)
+centipede (score = 0.03686)
+corn (score = 0.03481)
+ear, spike, capitulum (score = 0.03411)

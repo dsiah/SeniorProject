@@ -1,0 +1,5 @@
+potpie (score = 0.18722)
+plate (score = 0.10396)
+corn (score = 0.07443)
+mashed potato (score = 0.07189)
+French loaf (score = 0.05527)

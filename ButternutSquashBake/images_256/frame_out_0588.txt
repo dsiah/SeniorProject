@@ -1,0 +1,5 @@
+crate (score = 0.54051)
+carton (score = 0.02262)
+Band Aid (score = 0.01684)
+mousetrap (score = 0.01643)
+barrel, cask (score = 0.01303)

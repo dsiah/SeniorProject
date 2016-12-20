@@ -1,0 +1,5 @@
+frying pan, frypan, skillet (score = 0.16967)
+ladle (score = 0.06549)
+wok (score = 0.04769)
+bonnet, poke bonnet (score = 0.04336)
+potpie (score = 0.02443)

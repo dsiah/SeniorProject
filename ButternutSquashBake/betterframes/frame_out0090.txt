@@ -1,0 +1,5 @@
+traffic light, traffic signal, stoplight (score = 0.29053)
+safety pin (score = 0.07618)
+wok (score = 0.03875)
+corn (score = 0.03291)
+jack-o'-lantern (score = 0.03109)

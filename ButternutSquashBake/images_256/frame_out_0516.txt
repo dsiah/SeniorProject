@@ -1,0 +1,5 @@
+toilet seat (score = 0.10736)
+sandal (score = 0.09939)
+clog, geta, patten, sabot (score = 0.07365)
+wardrobe, closet, press (score = 0.05088)
+plunger, plumber's helper (score = 0.02721)

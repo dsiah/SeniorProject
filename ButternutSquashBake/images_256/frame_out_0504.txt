@@ -1,0 +1,5 @@
+plate rack (score = 0.11998)
+knee pad (score = 0.11218)
+swab, swob, mop (score = 0.08169)
+bolo tie, bolo, bola tie, bola (score = 0.07067)
+wardrobe, closet, press (score = 0.05283)

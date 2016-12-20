@@ -1,0 +1,5 @@
+nipple (score = 0.09724)
+oxygen mask (score = 0.08194)
+hook, claw (score = 0.07522)
+iron, smoothing iron (score = 0.06115)
+hourglass (score = 0.05821)

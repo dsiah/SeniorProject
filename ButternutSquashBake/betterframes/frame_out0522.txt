@@ -1,0 +1,5 @@
+burrito (score = 0.25149)
+corn (score = 0.15566)
+mashed potato (score = 0.13109)
+potpie (score = 0.08912)
+ear, spike, capitulum (score = 0.04036)
